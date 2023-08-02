@@ -1,25 +1,18 @@
-Thanks for downloading this theme!
+# [Global: HTML5 website template](http://buckymaler.com/global)
 
-## Other Useful Links
+### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
 
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
+Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
 
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
+The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
 
-Besides that, you can buy our premium templates for making your web development experience unforgettable.
+This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
+Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
 
-Alternatively, here's our top most trending and selling items:
+[LIVE PREVIEW](http://buckymaler.com/global)
 
-* [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
-* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
-* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
-* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
-* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
-* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
-* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
-* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
-* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
+## Misc:
 
-
+* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
+* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
